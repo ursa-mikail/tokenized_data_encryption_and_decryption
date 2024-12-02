@@ -56,10 +56,6 @@ Reliability: Canonized labels (i.e., consistently using the same tag format) hel
 Regex Compatibility: If the format changes (e.g., from [] to <> or key=value), the extraction process needs to account for those changes in the regular expression. The script uses a customizable regex pattern that can handle different tag formats.
 
 ## 
-Certainly! Here’s an updated version of the README.md, incorporating the idea of using a key=value format for labels (such as ciphered=...) as an alternative to using start and end tags:
-
-markdown
-Copy code
 # Data Encryption and Decryption Script
 
 ## Overview
